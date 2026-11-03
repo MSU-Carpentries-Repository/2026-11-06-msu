@@ -12,7 +12,7 @@ humantime: "9:00 am - 1:00 PM Eastern"    # human-readable times for the worksho
 startdate: 2026-11-06 # machine-readable start date for the workshop in YYYY-MM-DD format like 2015-01-01
 enddate: 2026-11-06 # machine-readable end date for the workshop in YYYY-MM-DD format like 2015-01-02
 instructor: ["Sruthin Gaddam"] # boxed, comma-separated list of instructors' names as strings, like ["Kay McNulty", "Betty Jennings", "Betty Snyder"]
-helper: ["Craig Grosch", "Tianyi Kou-Herrema"]     # boxed, comma-separated list of helpers' names, like ["Marlyn Wescoff", "Fran Bilas", "Ruth Lichterman"]
+helper: ["Jonathan Barber", "Craig Grosch", "Tianyi Kou-Herrema"]     # boxed, comma-separated list of helpers' names, like ["Marlyn Wescoff", "Fran Bilas", "Ruth Lichterman"]
 email: ["gaddamsr@msu.edu","grosscra@msu.edu"]    # boxed, comma-separated list of contact email addresses for the host, lead instructor, or whoever else is handling questions, like ["marlyn.wescoff@example.org", "fran.bilas@example.org", "ruth.lichterman@example.org"]
 # Optional variables
 collaborative_notes:  # URL for the workshop collaborative notes, e.g. an Etherpad or Google Docs document (e.g., https://pad.carpentries.org/2015-01-01-euphoria)
@@ -248,7 +248,7 @@ address.
             We are dedicated to providing a positive and accessible learning environment for all. 
             We do not require participants to provide documentation of disabilities or disclose any unnecessary personal information. 
             However, we do want to help create an inclusive, accessible experience for all participants. 
-            We encourage you to share any information that would be helpful to make your Carpentries experience accessible.
+            We encourage you to share any information that would be helpful to make your workshop experience accessible.
             To request accessibility support for this workshop, please fill out the 
             <a href="https://carpentries.typeform.com/to/B2OSYaD0">accessibility support request form</a>.
             If you have questions or need assistance with the accessibility support form please <a href="mailto:team@carpentries.org">email us</a>.
@@ -256,7 +256,7 @@ address.
             <p>
             <a href="https://glosario.carpentries.org/">Glosario</a> is a multilingual glossary for computing and data science terms.
             The glossary helps learners attend workshops and use our lessons to make sense of computational and programming jargon written in English by offering it in their native language.
-            Translating data science terms also provides a teaching tool for Carpentries Instructors to reduce barriers for their learners.
+            Translating data science terms also provides a teaching tool for instructors to reduce barriers for their learners.
             </p>
         </dd>
     </div>
@@ -269,7 +269,7 @@ address.
             Modify or remove the block below if you plan to record the workshop.
             {% endcomment %}
             <p id="recordings">
-            Carpentries workshops are designed to be interactive rather than lecture-based, with lessons that build upon one another.
+            This workshop is designed to be interactive rather than lecture-based, with lessons that build upon one another.
             To foster a positive online learning environment, we strongly recommend that participants join in real time.
             As a result, workshop recordings are not recommended and may not be available to learners.
             </p>
